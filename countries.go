@@ -3479,7 +3479,7 @@ func (c CountryCode) Currency() CurrencyCode { //nolint:gocyclo
 	case UKR:
 		return CurrencyUAH
 	case URY:
-		return CurrencyUYI
+		return CurrencyUYU
 	case FRO:
 		return CurrencyDKK
 	case FJI:
