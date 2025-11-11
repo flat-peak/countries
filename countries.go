@@ -3257,7 +3257,7 @@ func (c CountryCode) Currency() CurrencyCode { //nolint:gocyclo
 	case CIV:
 		return CurrencyXOF
 	case CUB:
-		return CurrencyCUC
+		return CurrencyCUP
 	case KWT:
 		return CurrencyKWD
 	case KGZ:
